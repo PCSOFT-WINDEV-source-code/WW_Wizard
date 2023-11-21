@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Wizard
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Wizard.WWP=4096
